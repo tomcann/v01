@@ -1,3 +1,6 @@
+
+Adding additional information for the Pull Request lecture
+
 Something else
 
 # v01
